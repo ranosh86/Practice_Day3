@@ -5,5 +5,6 @@ public class practice1 {
         System.out.println("Step3");
         System.out.println("Step4");
         System.out.println("Step5");
+        System.out.println("Step6");
     }
 }
